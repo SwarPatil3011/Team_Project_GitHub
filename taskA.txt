@@ -1,0 +1,3 @@
+Name : Swar Rajendra Patil
+Branch : Computer science and Engineering
+File : taskA.txt
